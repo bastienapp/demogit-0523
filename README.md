@@ -1,3 +1,3 @@
 # Demo project for Git
 
-Todo : create index file
+Todo : don't forget to create index file
